@@ -6,7 +6,7 @@ I focus on **backend systems, full-stack projects, and fintech/voting applicatio
 ---
 
  Tech Stack
-- **Languages & Frameworks:** JavaScript (Node.js, Express), HTML, CSS  
+- **Languages & Frameworks:** JavaScript,TypeScript (Node.js, Express), HTML, CSS  
 - **Databases:** MongoDB, SQL  
 - **Other Skills:** API design, authentication, system architecture  
 
