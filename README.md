@@ -2,20 +2,21 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Specialist;Fintech+Enthusiast;Building+Secure+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;API+Architecture+Specialist;Secure+Solutions+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a software developer specializing in building **secure, scalable backend systems** and **full-stack applications**. My work focuses on fintech solutions, voting platforms, and enterprise-grade systems that prioritize both **security** and **user experience**.
+I'm a **backend developer** specializing in building **secure, scalable server-side applications** and **robust API architectures**. I focus on creating efficient systems with clean code, proper authentication, and optimized database designs that power real-world applications.
 
 ```javascript
 const samuel = {
-    role: "Full-Stack Developer",
-    focus: ["Backend Systems", "Fintech", "Secure Applications"],
-    currentlyLearning: ["Advanced API Security", "DevOps", "Cloud Architecture"],
-    askMeAbout: ["Node.js", "API Design", "System Architecture", "Fintech"]
+    location: "Lagos, Nigeria",
+    role: "Backend Developer",
+    focus: ["API Development", "System Architecture", "Database Design"],
+    currentlyLearning: ["Advanced API Security", "DevOps", "Microservices"],
+    askMeAbout: ["Node.js", "Express", "RESTful APIs", "MongoDB", "Authentication"]
 };
 ```
 
@@ -23,13 +24,11 @@ const samuel = {
 
 <div align="center">
 
-### Languages & Frameworks
+### Backend & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,55 +38,82 @@ const samuel = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Frontend (Supporting Skills)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
 ## 💼 Featured Projects
 
-### 🗳️ Secure Voting Systems
-> Student voting platforms with robust authentication mechanisms and data integrity safeguards
-- **Tech Stack:** Node.js, Express, MongoDB, JWT Authentication
-- **Key Features:** Secure authentication, vote encryption, real-time results
-- **Impact:** Enhanced electoral integrity and transparency
+### 🗳️ Secure Voting System Backend
+> RESTful API for student voting platform with enterprise-grade security
+- **Tech Stack:** Node.js, Express, MongoDB, JWT, bcrypt
+- **Key Features:** 
+  - JWT-based authentication & authorization
+  - Role-based access control (admin/voter)
+  - Vote encryption and data integrity
+  - Real-time vote counting and results aggregation
+- **Architecture:** MVC pattern with modular route handlers
 
-### 🏦 Fintech Solutions
-> Comprehensive financial platforms with administrative dashboards and secure transaction workflows
-- **Tech Stack:** TypeScript, Node.js, SQL, Payment APIs
-- **Key Features:** Admin dashboards, transaction processing, user management
-- **Impact:** Streamlined financial operations and improved security
+### 💰 Financial Transaction API
+> Backend system for secure money transfer and account management
+- **Tech Stack:** TypeScript, Node.js, Express, SQL
+- **Key Features:**
+  - Transaction processing with ACID compliance
+  - Admin dashboard API endpoints
+  - Payment gateway integration
+  - Comprehensive error handling and logging
+- **Security:** Input validation, rate limiting, encrypted data storage
 
-### 📊 Automation & Data Processing Tools
-> Tools for data computation and process automation to improve operational efficiency
+### 📊 Data Processing & Automation Engine
+> Backend service for automated data computation and reporting
 - **Tech Stack:** JavaScript, Node.js, MongoDB
-- **Key Features:** Automated workflows, data analysis, reporting systems
-- **Impact:** Reduced manual workload by 60%
+- **Key Features:**
+  - Scheduled job processing with cron
+  - Batch data processing pipelines
+  - RESTful endpoints for data retrieval
+  - CSV export and report generation
+- **Performance:** Optimized queries, indexing strategies
 
-## 🎯 Core Competencies
+## 🎯 Core Backend Competencies
 
 ```
-├── Backend Development
+├── API Development
 │   ├── RESTful API Design
-│   ├── Authentication & Authorization
-│   └── Database Optimization
+│   ├── API Documentation (Swagger/OpenAPI)
+│   ├── Versioning & Best Practices
+│   └── Error Handling & Validation
 │
-├── Security
+├── Authentication & Security
 │   ├── JWT Implementation
-│   ├── Data Encryption
-│   └── Secure API Practices
+│   ├── OAuth 2.0
+│   ├── Password Hashing (bcrypt)
+│   ├── Rate Limiting & Throttling
+│   └── CORS & Security Headers
+│
+├── Database Management
+│   ├── Schema Design
+│   ├── Query Optimization
+│   ├── Indexing Strategies
+│   └── Data Migration
 │
 └── System Architecture
-    ├── Scalable Solutions
-    ├── Microservices Design
+    ├── Scalable Backend Design
+    ├── Middleware Development
+    ├── Caching Strategies
     └── Performance Optimization
 ```
 
 ## 🌱 Currently Exploring
 
-- 🔐 Advanced **API security** patterns and authentication strategies
-- ☁️ **DevOps & Cloud Deployment** (Docker, Kubernetes, CI/CD)
-- ⚛️ Modern frontend frameworks for enhanced user experiences
-- 🚀 Performance optimization and scalability best practices
+- 🔐 Advanced **API security** patterns (OAuth 2.0, API keys, webhooks)
+- ☁️ **DevOps & Cloud Deployment** (Docker, CI/CD pipelines, AWS)
+- 🏗️ **Microservices architecture** and service communication
+- ⚡ **Performance optimization** (caching, load balancing, database tuning)
+- 🧪 **Testing strategies** (unit tests, integration tests, TDD)
 
 ## 📊 GitHub Stats
 
@@ -115,7 +141,7 @@ const samuel = {
 
 <div align="center">
   
-### 💡 *"Building secure, scalable solutions one commit at a time"*
+### 💡 *"Building robust backend systems with clean, efficient code"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sam-Teche&color=667eea&style=for-the-badge)
 
