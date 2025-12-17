@@ -12,7 +12,6 @@ I'm a **backend developer** specializing in building **secure, scalable server-s
 
 ```javascript
 const samuel = {
-    location: "Lagos, Nigeria",
     role: "Backend Developer",
     focus: ["API Development", "System Architecture", "Database Design"],
     currentlyLearning: ["Advanced API Security", "DevOps", "Microservices"],
